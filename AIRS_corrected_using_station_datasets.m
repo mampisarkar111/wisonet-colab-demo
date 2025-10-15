@@ -5,7 +5,7 @@ clc; clear; close all
 % AIRS Surface δD Bias Correction using Good et al. (2015)-style Regression
 % This script performs a bias correction of AIRS δD retrievals
 % using collocated in-situ water vapor isotope data. The in-situ water
-% vapor isotope datasets are obtained from mpiled from published near-surface Bonne et al. [2014], Steen-Larsen
+% vapor isotope datasets are obtained from previous works of Bonne et al. [2014], Steen-Larsen
 % et al. [2015], Jacob and Sonntag [1991], Bastrikov et al. [2014], Tremoy et al. [2012], Angert
 % et al. [2008], Berkelhammer et al. [2016], Samuels-Crow et al. [2014], Galewsky [2018], Wen
 % et al. [2010], Lee et al. [2006], Salamalikis et al. [2015], Gonz´alez et al. [2016], Christensen
